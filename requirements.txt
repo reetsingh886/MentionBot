@@ -1,4 +1,4 @@
-telethon
+pyrogram==2.0.106
+tgcrypto
+telethon==1.41.1
 cryptg
-asyncio
-pyrogram
